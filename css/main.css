@@ -89,7 +89,10 @@ textarea {
 
 /* -------------------- Base Header - Footer Styles -------------------- */
 
-
+header,
+footer {
+  display: flex;
+}
 
 /* ==========================================================================
    Helper classes
