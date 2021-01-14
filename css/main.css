@@ -92,6 +92,7 @@ textarea {
 header,
 footer {
   display: flex;
+  justify-content: center;
 }
 
 /* ==========================================================================
