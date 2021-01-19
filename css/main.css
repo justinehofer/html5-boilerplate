@@ -106,6 +106,7 @@ header .content-wrapper{
 
 header nav {
   display: flex;
+  justify-content: space-around;
 }
 
 /* ==========================================================================
