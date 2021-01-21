@@ -157,6 +157,7 @@ aside {
 
 .features .features-items {
   display: flex;
+  justify-content: center;
 }
 
 /* ==========================================================================
