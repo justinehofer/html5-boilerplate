@@ -142,6 +142,8 @@ footer .social-icons p {
 
 aside {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* ==========================================================================
