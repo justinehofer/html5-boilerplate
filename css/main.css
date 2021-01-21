@@ -152,6 +152,7 @@ aside {
 .features {
   display: flex;
   justify-content: center;
+  flex-flow: row wrap;
 }
 
 /* ==========================================================================
