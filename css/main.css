@@ -165,6 +165,7 @@ aside {
 .reviews {
   display: flex;
   justify-content: center;
+  flex-flow: row wrap;
 }
 
 /* ==========================================================================
