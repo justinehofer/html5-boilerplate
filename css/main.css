@@ -181,6 +181,10 @@ aside {
   flex-flow: row wrap;
 }
 
+.contact-section {
+  display: flex;
+}
+
 
 /* ==========================================================================
    Helper classes
