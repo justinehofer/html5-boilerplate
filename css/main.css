@@ -132,7 +132,9 @@ footer .social-icons p {
 
 /* Header */
 
-
+header .content-wrapper {
+  width: 20%;
+}
 
 /* Hero Area */
 
