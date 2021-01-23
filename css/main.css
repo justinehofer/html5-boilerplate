@@ -136,6 +136,10 @@ header .content-wrapper {
   width: 20%;
 }
 
+header .header-divider {
+  width: 1%;
+}
+
 /* Hero Area */
 
 .hero-area {
